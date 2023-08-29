@@ -4,7 +4,7 @@
   "description": "\"\"",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": " npx tailwindcss -i ./src/input-style.css -o ./public/output-style.css --watch "
+    "start": " npx tailwindcss -i ./build/src/input-style.css -o ./build/public/output-style.css --watch "
   },
   "main": "index.js",
   "author": "\"Tubi Obaloluwa\"",
